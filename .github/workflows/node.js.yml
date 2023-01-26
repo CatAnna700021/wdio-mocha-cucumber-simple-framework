@@ -13,8 +13,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
- 
-    steps:
+     steps:
    
     - name: Use Node.js
     - run: npm wdio:cucumber
